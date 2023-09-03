@@ -1,0 +1,5 @@
+# Using to create scripts for migration
+
+- start ist process
+
+- Didnt figure out the reason behind the delays
